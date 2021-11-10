@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/omnet-series-decoder/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/omnet-series-decoder/static/js/main.2e901648.chunk.js",
+    "main.js.map": "/omnet-series-decoder/static/js/main.2e901648.chunk.js.map",
+    "runtime-main.js": "/omnet-series-decoder/static/js/runtime-main.efe0eda3.js",
+    "runtime-main.js.map": "/omnet-series-decoder/static/js/runtime-main.efe0eda3.js.map",
+    "static/js/2.31c8abc4.chunk.js": "/omnet-series-decoder/static/js/2.31c8abc4.chunk.js",
+    "static/js/2.31c8abc4.chunk.js.map": "/omnet-series-decoder/static/js/2.31c8abc4.chunk.js.map",
+    "static/js/3.7379cf29.chunk.js": "/omnet-series-decoder/static/js/3.7379cf29.chunk.js",
+    "static/js/3.7379cf29.chunk.js.map": "/omnet-series-decoder/static/js/3.7379cf29.chunk.js.map",
+    "index.html": "/omnet-series-decoder/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/omnet-series-decoder/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.31c8abc4.chunk.js.LICENSE.txt": "/omnet-series-decoder/static/js/2.31c8abc4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efe0eda3.js",
+    "static/js/2.31c8abc4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2e901648.chunk.js"
+  ]
+}
